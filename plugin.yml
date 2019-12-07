@@ -1,0 +1,10 @@
+name: Demon
+main: dev.demon.Demon
+version: 1.0
+commands:
+  demon:
+    usage: /<command>
+    description: Command.
+  cancelban:
+    usage: /<command>
+    description: Command.

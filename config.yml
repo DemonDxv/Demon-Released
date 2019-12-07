@@ -1,0 +1,9 @@
+#Anticheat made by Demon#1337
+Bans:
+  enabled: true
+  message: "&6%player% &cgot caught in &6&lScorch's &cflames"
+  command: "/ban %player% Unfair Advantage -s"
+Alerts:
+  enabled: true
+  message: "&c[Demon] // &f%player% &7has flagged &f%check% %checktype% &c(x%vl%)"
+  dev-message: "&c[Demon] // &f%player% &7has flagged &f%check% %checktype% &c(DEV)"
