@@ -6,7 +6,3 @@ Credits:
 FlyCode (made base, checks)
 Luke (made packet system, reach check inspired by firefly)
 Jonhan (check concept ideas)
-
-I'm done, bye niggas
-
-https://www.youtube.com/watch?v=8WvmWPyGi9I
